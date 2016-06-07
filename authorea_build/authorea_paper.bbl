@@ -1,7 +1,0 @@
-\begin{thebibliography}{}
-\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-
-\bibitem[{{Britton}(2006)}]{Britton:2006}
-{Britton}, M.~C. 2006, \pasp, 118, 885
-
-\end{thebibliography}
